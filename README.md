@@ -60,7 +60,7 @@ Hi, I'm Raghul Subbiah, a DevOps Engineer passionate about automation, scalable 
 
 ---
 
-## 📄 Certifications (Optional)
+## 📄 Certifications
 - ✅ AWS Certified DevOps Engineer – Professional
 - ✅ Certified Kubernetes Administrator (CKA)
 - ✅ HashiCorp Certified: Terraform Associate
